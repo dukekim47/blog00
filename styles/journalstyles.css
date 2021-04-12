@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital@1&family=Train+One&display=swap');
+
+#thumbnail {
+    height: 300px;
+}
+
+h1 , h2 {
+    font-family: 'Crimson Text', serif;
+}
+
+h2 {
+    font-size: 1.2rem;
+}
+
+.logos {
+    height: 100px;
+    
+}
+
+.footer-logos {
+    height: 50px
+}
