@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta3"
+  },
+  "name": "blog00",
+  "description": "Personal Blog/Journal of my development journey",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dukekim47/blog00.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dukekim47/blog00/issues"
+  },
+  "homepage": "https://github.com/dukekim47/blog00#readme"
+}
